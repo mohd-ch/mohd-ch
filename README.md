@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed C H</h1>
 <h3 align="center">"Embarking on the Exciting Journey of a Data Science Career"</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*e4HBnH84BpwLCFr78xvfjg.gif&tbnid=bviyC5uTyd6PvM&vet=12ahUKEwj3leL1q8f-AhVf93MBHRJ-CZkQMygNegUIARCkAg..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fdataflair%2Fyour-data-science-dream-journey-unlocked-21bf801889fe&docid=8JyosAEzInZ6aM&w=1394&h=850&q=data%20scientist%20gif%20image&ved=2ahUKEwj3leL1q8f-AhVf93MBHRJ-CZkQMygNegUIARCkAg”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-ch&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-ch" /> </p>
 

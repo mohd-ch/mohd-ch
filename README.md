@@ -1,29 +1,70 @@
 <h1 align="center">Hi 👋, I'm Mohammed C H</h1>
-<h3 align="center">"Embarking on the Exciting Journey of a Data Science Career"</h3>
+<h3 align="center">Tech Support, Operations & Data Analysis Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-ch&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-ch" /> </p>
-
-- 🔭 I'm done a Machine learning project using django frame works and Random Forest Algorithms **Domestic Flight Fare Prediction**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **Python, Machine Learning, MySQL, Computer Vision, Deep Learning, tableau**
-
-- 📫 How to reach me **chmuhammed989@gmail.com**
-
-- ⚡ Fun fact **"Data is the new oil, and Data Science is the refinery that extracts its value." - Unknown**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-ch-428405213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ch-428405213" height="30" width="40" /></a>
-<a href="https://instagram.com/@__mohad_ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__mohad_ch" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohd-ch&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-ch" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🔭 **Current Role:** Tech Support, Operations & Data Analysis Specialist
+- 🌱 **Learning:** Data Science and Machine Learning
+- 👨‍💻 **Portfolio:** [mohammedch.onrender.com](https://mohammedch.onrender.com/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-ch&show_icons=true&locale=en&layout=compact" alt="mohd-ch" /></p>
+### 💬 Ask me about:
+- **Tech Skills:**
+  - JavaScript
+  - Python
+  - MySQL
+  - Machine Learning
+  - NumPy & Pandas
+  - Tableau & Power BI
+  - Microsoft Excel
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-ch&show_icons=true&locale=en" alt="mohd-ch" /></p>
+- **Operations & Management:**
+  - Technical Support
+  - Operations Coordination
+  - Documentation Management
+  - Communication Management
+  - Problem Resolution
+  - Stakeholder Engagement
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ch&" alt="mohd-ch" /></p>
+### 📫 Connect with me:
+- **Email:** muhammedch069@gmail.com
+- **LinkedIn:** [mohammed-c-h](https://www.linkedin.com/in/mohammed-c-h/)
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
+  </a>
+</p>
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-ch&show_icons=true&locale=en&layout=compact" alt="mohd-ch" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-ch&show_icons=true&locale=en" alt="mohd-ch" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ch&" alt="mohd-ch" />
+</p>

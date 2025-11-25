@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#g); }
+      .card { fill: rgba(255,255,255,0.06); stroke: rgba(255,255,255,0.07); stroke-width:1; rx:14; }
+      .title { font-family: 'Segoe UI', Roboto, system-ui; font-size:40px; font-weight:800; fill: #fff; letter-spacing:0.6px; }
+      .subtitle { font-family: 'Segoe UI', Roboto, system-ui; font-size:16px; fill: rgba(230,243,240,0.95); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="250" class="bg" rx="16"/>
+  <g transform="translate(40,38)">
+    <rect width="1120" height="174" class="card"/>
+    <text x="36" y="70" class="title">Mohammed C H</text>
+    <text x="36" y="100" class="subtitle">Tech Support • Data Analysis • Full-Stack Learner</text>
+  </g>
+</svg>

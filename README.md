@@ -19,7 +19,15 @@
 ---
 
 ### 🔭 About
-Tech Support & Data Analysis specialist — now focused on mastering DSA and Full-Stack Development. Check pinned projects for demos.
+Technical Support & Data Analysis specialist — I build automation, dashboards and tooling that reduces manual effort and improves reporting. Currently master­ing DSA (Skillians) and building Full-Stack projects.
+
+---
+
+### 🔥 Selected achievements
+- Built JS automation tools that reduced manual workload by ~30%.  
+- Built performance & finance dashboards that improved reporting efficiency by ~40%.  
+- Developed a Flight Fare Prediction web app (Django + MySQL + Random Forest).  
+- Interactive Power BI: Road Accident Analysis (2024).
 
 ---
 
@@ -27,3 +35,24 @@ Tech Support & Data Analysis specialist — now focused on mastering DSA and Ful
 <p align="center">
   <img src="./progress-dsa-fsd.svg" width="480" />
 </p>
+
+---
+
+### 🛠 Tech Stack
+Python · JavaScript · MySQL · Pandas · NumPy · Power BI · Tableau · Excel · Git
+
+---
+
+### ⭐ Featured Projects
+- **Road-Accident-Analytics** — Power BI dashboards with story-driven pages.  
+- **flight-fare-predictor** — Django + Random Forest fare predictor (demo & notebooks).  
+- **ops-automation-scripts** — JS & Apps Script collection for ops automation.
+
+---
+
+### 📫 Contact
+- Email: muhammedch069@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohammed-c-h/  
+- Portfolio: https://mohammedch.onrender.com/
+
+---

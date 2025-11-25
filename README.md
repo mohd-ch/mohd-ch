@@ -2,12 +2,12 @@
   <img src="./banner.svg" width="100%" alt="Mohammed C H — Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammed C H</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mohammed C H</h1>
 <h3 align="center">Technical Support • Operations • Data Analysis • Full-Stack Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohd-ch&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
